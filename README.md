@@ -82,11 +82,6 @@ The app will run on **[http://localhost:3000/](http://localhost:3000/)**
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots of **Dashboard, Transactions Page, Account Creation, SIP/FD modules** here)
-
----
 
 ## 🛡️ Security Features
 
@@ -100,8 +95,6 @@ The app will run on **[http://localhost:3000/](http://localhost:3000/)**
 
 * ✅ UPI/QR Code Payment Integration
 * ✅ AI-powered Investment Recommendations
-* ✅ Dark Mode UI
-* ✅ Multi-language Support
 
 ---
 
